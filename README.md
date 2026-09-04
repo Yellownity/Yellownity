@@ -7,7 +7,7 @@
 
 ## 🕹️ Projets académiques (Jeux vidéo)
 
-### [Attack Tower](https://github.com/Yellownity/AttackTower)
+### [🌾 Attack Tower](https://github.com/Yellownity/AttackTower)
 
 - **Description :** 
 Jeu vidéo en C++ de type Reverse Tower Defense (jeu de stratégie en temps réel où le joueur lève une armée (chasseurs, loups, éléphants) pour détruire tous les champs de blé adverses avant la fin du temps imparti, ou défendre sa base). <br>

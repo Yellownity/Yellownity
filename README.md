@@ -6,7 +6,6 @@
 ---
 
 ## 🕹️ Projets académiques (Jeux vidéo)
----
 
 ### [Attack Tower](https://github.com/Yellownity/AttackTower)
 
@@ -23,7 +22,6 @@ https://github.com/Yellownity/AttackTower
 ---
 
 ## 🕹️ Jeux vidéos (Game Jams)
----
 
 ### [⚖️ Dusk Balance](https://github.com/DarkYzer/INT-Game-Jam-2026)
 

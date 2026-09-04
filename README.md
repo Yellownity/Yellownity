@@ -10,15 +10,15 @@
 
 ### [Attack Tower](https://github.com/Yellownity/AttackTower)
 
-**Description :** 
+- **Description :** 
 Jeu vidéo en C++ de type Reverse Tower Defense (jeu de stratégie en temps réel où le joueur lève une armée (chasseurs, loups, éléphants) pour détruire tous les champs de blé adverses avant la fin du temps imparti, ou défendre sa base). <br>
-**Mon rôle :**
+- **Mon rôle :**
 Conception de l'architecture orientée objet (héritage, polymorphisme, factory pattern, state pattern). Développement du comportement des troupes (attaque, défense, pv) <br>
-**Technos :** C++ · SFML · pugixml · CMake · Git <br>
-**Image :**
+- **Technos :** C++ · SFML · pugixml · CMake · Git <br>
+- **Image :**
 <img width="1282" height="752" alt="Attack Tower" src="https://github.com/user-attachments/assets/2679c1b6-ab78-4522-b1bc-3cf9373b0a0e" />
-**Lien github :** 
-- https://github.com/Yellownity/AttackTower
+- **Lien github :**
+https://github.com/Yellownity/AttackTower
 
 ---
 
@@ -34,8 +34,8 @@ Illustratrice des assets 2D du jeu ✏️, Implémentation du mouvement du backg
 - **Technos :** Unity · C# · Git <br>
 - **Image :**
 <img width="1919" height="1079" alt="dusk balance" src="https://github.com/user-attachments/assets/736e12e6-1e4a-44c3-bef8-ac61fca4e050" />
-- **Lien github :** https://github.com/DarkYzer/INT-Game-Jam-2026
-- **Lien itch.io :** https://darkyzer.itch.io/dusck-balance
+**Lien github :** https://github.com/DarkYzer/INT-Game-Jam-2026 <br>
+**Lien itch.io :** https://darkyzer.itch.io/dusck-balance
 
 ---
 

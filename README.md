@@ -20,6 +20,20 @@ Conception de l'architecture orientée objet (héritage, polymorphisme, factory 
 - **Lien github :**
 https://github.com/Yellownity/AttackTower
 
+### 👾[Crystal Quest](https://gitlab.com/Sophie-2023/crystal-quest-javafx/-/tree/dev)
+
+- **Description :** 
+Jeu vidéo en javaFX inspiré de Crystal Quest, un jeu rétro de 1987. <br>
+- **Mon rôle :**
+Développement du comportement du joueur (déplacement, attaque), développement de certains monstres. <br>
+- **Technos :** JavaFX · Git <br>
+- **Image :**
+<img width="790" height="513" alt="crystal quest" src="https://github.com/user-attachments/assets/4f9ecd23-3b51-47d0-9bc7-bbe7f4404e46" />
+
+- **Lien gitlab :**
+https://gitlab.com/Sophie-2023/crystal-quest-javafx/-/tree/dev
+
+
 ---
 
 ## 🕹️ Jeux vidéos (Game Jams)

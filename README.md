@@ -12,13 +12,12 @@
 <img width="1919" height="1079" alt="dusk balance" src="https://github.com/user-attachments/assets/736e12e6-1e4a-44c3-bef8-ac61fca4e050" />
 
 **Description :** 
-Jeu développé en game jam sur Unity. Très fortement inspiré du célèbre Tricky Towers, Dusk Balance revisite le jeu d'empilement. Ici, le but n'est pas de réussir à imbriquer les blocs parfaitement pour faire disparaître des lignes, mais bien de poser le plus de blocs possible sur une bascule tout en maintenant un équilibre parfait entre le jour et la nuit. Un seul faux pas, et tout s'écroule !
-
+Un jeu d'équilibre créé pour l'INT Game Jam 2026 sur le thème "Equinoxe". <br>
 **Mon rôle :**
-J'ai illustré tous les assets 2D du jeu et j'ai développé certaines mécaniques en C#. 
-
-**Technos :** Unity · C#
-
+Illustratrice des assets 2D du jeu, Implémentation du mouvement du background en fonction de l'angle de la balance. <br> 
+**Technos :** Unity · C# · Git <br>
+**Image :**
+<img width="1919" height="1079" alt="dusk balance" src="https://github.com/user-attachments/assets/736e12e6-1e4a-44c3-bef8-ac61fca4e050" />
 **Liens :** 
 - https://github.com/DarkYzer/INT-Game-Jam-2026
 - https://darkyzer.itch.io/dusck-balance
@@ -28,16 +27,13 @@ J'ai illustré tous les assets 2D du jeu et j'ai développé certaines mécaniqu
 
 ### [Attack Tower](https://github.com/Yellownity/AttackTower)
 
-<img width="1282" height="752" alt="Attack Tower" src="https://github.com/user-attachments/assets/2679c1b6-ab78-4522-b1bc-3cf9373b0a0e" />
-
 **Description :** 
-Jeu développé en C++ à deux. Après votre lecture de Sapiens, tout est devenu clair : l'agriculture est la pire erreur de l'humanité. Guidé par cette révélation et une folie grandissante, vous n'avez plus qu'un objectif... détruire tous les champs de blé !
-
+Jeu vidéo en C++ de type Reverse Tower Defense (gestion d'armée d'animaux révoltés attaquant des champs fortifiés). <br>
 **Mon rôle :**
-Développeur et Game Designer
-
-**Technos :** C++ · Visual Studio
-
+Développeur et Game Designer <br>
+**Technos :** C++ · Visual Studio · Git <br>
+**Image :**
+<img width="1282" height="752" alt="Attack Tower" src="https://github.com/user-attachments/assets/2679c1b6-ab78-4522-b1bc-3cf9373b0a0e" />
 **Lien :** 
 - https://github.com/Yellownity/AttackTower
 

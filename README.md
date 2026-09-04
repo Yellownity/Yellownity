@@ -9,16 +9,14 @@
 
 ### [⚖️ Dusk Balance](https://github.com/DarkYzer/INT-Game-Jam-2026)
 
-<img width="1919" height="1079" alt="dusk balance" src="https://github.com/user-attachments/assets/736e12e6-1e4a-44c3-bef8-ac61fca4e050" />
-
-**Description :** 
+- **Description :** 
 Un jeu d'équilibre créé pour l'INT Game Jam 2026 sur le thème "Equinoxe". <br>
-**Mon rôle :**
+- **Mon rôle :**
 Illustratrice des assets 2D du jeu, Implémentation du mouvement du background en fonction de l'angle de la balance. <br> 
-**Technos :** Unity · C# · Git <br>
-**Image :**
+- **Technos :** Unity · C# · Git <br>
+- **Image :**
 <img width="1919" height="1079" alt="dusk balance" src="https://github.com/user-attachments/assets/736e12e6-1e4a-44c3-bef8-ac61fca4e050" />
-**Liens :** 
+- **Liens :** 
 - https://github.com/DarkYzer/INT-Game-Jam-2026
 - https://darkyzer.itch.io/dusck-balance
 

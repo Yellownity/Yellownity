@@ -1,6 +1,6 @@
 
-🎮 Étudiante en école d'ingénieur, en spécialité **jeux vidéo et interactions numériques** (parcours numérique généraliste, touche-à-tout)
-🎨 Passionnée par la technologie au service de la créativité — art, jeux vidéo, IA générative
+🎮 Étudiante en école d'ingénieur, en spécialité **jeux vidéo et interactions numériques** (parcours numérique généraliste, touche-à-tout) <br>
+🎨 Passionnée par la technologie au service de la créativité — art, jeux vidéo, IA générative <br>
 ✏️ Illustratrice à côté de mes études
 
 ---
@@ -18,6 +18,7 @@ Jeu développé en game jam sur Unity. Très fortement inspiré du célèbre Tri
 J'ai illustré tous les assets 2D du jeu et j'ai développé certaines mécaniques en C#. 
 
 **Technos :** Unity · C#
+
 **Liens :** 
 - https://github.com/DarkYzer/INT-Game-Jam-2026
 - https://darkyzer.itch.io/dusck-balance
@@ -36,6 +37,7 @@ Jeu développé en C++ à deux. Après votre lecture de Sapiens, tout est devenu
 Développeur et Game Designer
 
 **Technos :** C++ · Visual Studio
+
 **Lien :** 
 - https://github.com/Yellownity/AttackTower
 

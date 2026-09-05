@@ -20,6 +20,15 @@ Conception de l'architecture orientée objet (héritage, polymorphisme, factory 
 - **Lien github :**
 https://github.com/Yellownity/AttackTower
 
+### 🐱[Cat Party](https://gitlab.com/eshe3/cassiopechatsourisgitlab)
+
+- **Description :** 
+Jeu vidéo multijoueur local développé sur Unreal Engine qui illustre la raison d'être de l'IMT (Institut Mines-Télécom) . <br>
+- **Mon rôle :**
+Développement des menus, UI du jeu, comportement du joueur lorsqu'il touche un objet. <br>
+- **Technos :** Unreal Engine · Blueprint · Git <br>
+- **Lien gitlab :**
+https://gitlab.com/eshe3/cassiopechatsourisgitlab
 
 ### 👾[Crystal Quest](https://gitlab.com/Sophie-2023/crystal-quest-javafx/-/tree/dev)
 

@@ -20,6 +20,7 @@ Conception de l'architecture orientée objet (héritage, polymorphisme, factory 
 - **Lien github :**
 https://github.com/Yellownity/AttackTower
 
+
 ### 🐱[Cat Party](https://gitlab.com/eshe3/cassiopechatsourisgitlab)
 
 - **Description :** 
@@ -29,6 +30,7 @@ Développement des menus, UI du jeu, comportement du joueur lorsqu'il touche un 
 - **Technos :** Unreal Engine · Blueprint · Git <br>
 - **Lien gitlab :**
 https://gitlab.com/eshe3/cassiopechatsourisgitlab
+
 
 ### 🐰[Battle Lapinou](https://github.com/Yellownity/Battle-Lapinou)
 
@@ -43,6 +45,7 @@ Conception de l’architecture orientée objet et des niveaux. Développement de
 
 - **Lien github :**
 https://github.com/Yellownity/Battle-Lapinou
+
 
 ### 👾[Crystal Quest](https://gitlab.com/Sophie-2023/crystal-quest-javafx/-/tree/dev)
 
@@ -73,13 +76,55 @@ Illustratrice des assets 2D du jeu ✏️, Implémentation du mouvement du backg
 <img width="1919" height="1079" alt="dusk balance" src="https://github.com/user-attachments/assets/736e12e6-1e4a-44c3-bef8-ac61fca4e050" />
 
 - **Lien github :** https://github.com/DarkYzer/INT-Game-Jam-2026 <br>
-- **Lien itch.io :** https://darkyzer.itch.io/dusck-balance
+- **Jouer au jeu 👉:** https://darkyzer.itch.io/dusck-balance
 
+
+### 👻[Spirits Corps](https://github.com/G-Arlabosse/SpiritCorps)
+
+- **Description :** 
+Un jeu d'énigmes créé pour l'INT Game Jam 2025 sur le thème "Dualité".  <br>
+- **Mon rôle :**
+Illustratrice des assets 2D du jeu ✏️ <br>
+- **Technos :** Godot · Git <br>
+- **Image :**
+<img width="1166" height="692" alt="Spirit corps menu" src="https://github.com/user-attachments/assets/badd8306-8fab-4d4c-b4b1-34171e3b8b00" />
+
+
+- **Lien github :** https://github.com/G-Arlabosse/SpiritCorps
+- **Jouer au jeu 👉:** https://sophie-2024.itch.io/spirits-corps
+
+
+### 🔮[Irma Rnak](https://github.com/G-Arlabosse/SpiritCorps)
+
+- **Description :** 
+Un jeu de fiction interactive / visual novel en 2D, développé sous Unity dans le cadre de la Unijam 2024. Prix du jury.  <br>
+- **Mon rôle :**
+Développement de l'interface utilisateur (UI) et de l'affichage des dialogues. <br>
+- **Technos :** Unity · C# · Git <br>
+- **Image :**
+<img width="1920" height="1080" alt="vlcsnap-2026-09-07-15h25m40s898" src="https://github.com/user-attachments/assets/1290ad44-ad23-460d-b1b3-2d6c6c2ac610" />
+
+
+- **Lien github :** https://github.com/AdriKat2022/irma-company
+- **Jouer au jeu 👉:** https://soldatspectre76.itch.io/irma-rnak
+
+
+### 🪰[Je t'attaon en 5208](https://github.com/ValT78/INTGJ)
+
+- **Description :** 
+Un jeu de puzzles 3D de type escape game, créé pour l'INT Game Jam 2024 sur le thème "Jouer avec le temps". Prix du public.  <br>
+- **Mon rôle :**
+Développement des énigmes et des interactions avec les éléments du décor. Mise en place du surlignage des objets interactifs et des animations d’ouverture. <br>
+- **Technos :** Unity · C# · Git <br>
+- **Image :**
+<img width="1920" height="1080" alt="jouer avec le temps" src="https://github.com/user-attachments/assets/d62d90b4-b5d3-495c-a1c0-0121b03ec6fe" />
+
+
+- **Lien github :** https://github.com/ValT78/INTGJ
+- **Jouer au jeu 👉:** https://valt7.itch.io/taon5208
+
+  
 ---
-
-## 📫 Me contacter
-
-[LinkedIn](LIEN) · [Portfolio](LIEN) · [Email](MAILTO)
 
 <!--
 **Yellownity/Yellownity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

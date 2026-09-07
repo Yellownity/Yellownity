@@ -65,7 +65,7 @@ https://gitlab.com/Sophie-2023/crystal-quest-javafx/-/tree/dev
 
 ## 🕹️ Jeux vidéos (Game Jams)
 
-### ⚖️[Dusk Balance](https://github.com/DarkYzer/INT-Game-Jam-2026)
+### ⚖️[Dusck Balance](https://github.com/DarkYzer/INT-Game-Jam-2026)
 
 - **Description :** 
 Un jeu d'équilibre créé pour l'INT Game Jam 2026 sur le thème "Equinoxe". <br>

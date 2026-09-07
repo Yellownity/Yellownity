@@ -30,6 +30,20 @@ Développement des menus, UI du jeu, comportement du joueur lorsqu'il touche un 
 - **Lien gitlab :**
 https://gitlab.com/eshe3/cassiopechatsourisgitlab
 
+### 🐰[Battle Lapinou](https://github.com/Yellownity/Battle-Lapinou)
+
+- **Description :** 
+Jeu de type Auto-battler réalisé à deux sur Unity. <br>
+- **Mon rôle :**
+Conception de l’architecture orientée objet et des niveaux. Développement des menus et de l’interface utilisateur (UI), du système d’achat et de placement des unités, du comportement des objets, de la gestion du temps et des mouvements de caméra. Mise en place de la boucle de jeu (game loop) ainsi que des pop-ups de victoire et de défaite. <br>
+- **Technos :** Unity · C# · Git <br>
+- **Image :**
+<img width="1920" height="1020" alt="battle lapinou 3" src="https://github.com/user-attachments/assets/6186a99f-718b-4cfd-bd18-92f8206a67dd" />
+
+
+- **Lien github :**
+https://github.com/Yellownity/Battle-Lapinou
+
 ### 👾[Crystal Quest](https://gitlab.com/Sophie-2023/crystal-quest-javafx/-/tree/dev)
 
 - **Description :** 

@@ -38,7 +38,7 @@ Jeu de type Auto-battler réalisé à deux sur Unity. <br>
 Conception de l’architecture orientée objet et des niveaux. Développement des menus et de l’interface utilisateur (UI), du système d’achat et de placement des unités, du comportement des objets, de la gestion du temps et des mouvements de caméra. Mise en place de la boucle de jeu (game loop) ainsi que des pop-ups de victoire et de défaite. <br>
 - **Technos :** Unity · C# · Git <br>
 - **Image :**
-<img width="1920" height="1020" alt="battle lapinou 3" src="https://github.com/user-attachments/assets/6186a99f-718b-4cfd-bd18-92f8206a67dd" />
+<img width="1487" height="830" alt="battle lapinou 4" src="https://github.com/user-attachments/assets/42fa0bb0-1ebe-460c-85ad-3034df4e03af" />
 
 
 - **Lien github :**
